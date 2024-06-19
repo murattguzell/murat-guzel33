@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Murat</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">My Journey in the World of Software</h3>
 
 - 🔭 I’m currently working on **Flutter-Kotlin-Java**
 
